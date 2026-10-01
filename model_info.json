@@ -1,0 +1,8 @@
+{
+  "model": "EfficientNetB0",
+  "img_size": 224,
+  "classes": [
+    "dermis",
+    "dermquest"
+  ]
+}
